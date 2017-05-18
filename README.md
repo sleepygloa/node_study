@@ -1,7 +1,8 @@
 # node_study
 ------
-1. simple chatting by node.js
+##1. simple chatting by node.js
  needed 3 files: chatServer.js, chatClient.js, chatClient.html
+ 
  
  1) npm install express
     npm install socket.io
