@@ -4,7 +4,7 @@
  총 3개의 파일이 필요합니다: chatServer.js, chatClient.js, chatClient.html
  
  
- 1) 패키지설치 - cmd , shell, bash 안의 node폴더안에서 패키지를 .
+ 1) 패키지설치 - cmd , shell, bash 안의 node폴더안에서 패키지를 
     npm install express
     npm install socket.io
     
